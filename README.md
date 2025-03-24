@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/erickwendel/ollama-webui-traefik-docker.git
-   cd ollama-webui-traefik-docker
+   https://github.com/isaelsilva1039/ai-ollama-docker.git
+   cd sua-pasta-caso-aonde-repo-foi-clonado
    ```
 
 2. Set up your domain by modifying the `.env` file:
